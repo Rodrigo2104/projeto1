@@ -1,5 +1,5 @@
 # projeto1
-projeto 1 de techweb
+projeto 1A de techweb-Rodrigo de Jesus(sozinho)
 
 Endereço de acesso: http://localhost:8080/Projeto_1/login.jsp
 
